@@ -101,5 +101,5 @@ e.g.:
 
 .. _issues: https://github.com/keflavich/pyradex/issues
 
-.. _astroquery: astroquery.readthedocs.org
+.. _astroquery: https://astroquery.readthedocs.io/en/latest/
 .. _specutils: https://github.com/astropy/specutils
